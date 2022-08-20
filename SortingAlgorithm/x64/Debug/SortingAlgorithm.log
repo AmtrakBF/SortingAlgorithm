@@ -1,0 +1,45 @@
+﻿  Application.cpp
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\QuickSort.h(9,2): warning C4091: 'static ': ignored on left of 'QuickSort' when no variable is declared
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(3,32): error C2039: 'chrono_literals': is not a member of 'std::literals'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xstring(4992): message : see declaration of 'std::literals'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(3,47): error C2871: 'chrono_literals': a namespace with this name does not exist
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,7): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,15): error C3083: 'steady_clock': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,29): error C2039: 'time_point': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(24): message : see declaration of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,40): error C3646: 'start': unknown override specifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,7): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,15): error C3083: 'steady_clock': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,29): error C2039: 'time_point': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(24): message : see declaration of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,40): error C3646: 'end': unknown override specifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(14,2): warning C4091: 'static ': ignored on left of 'Timer' when no variable is declared
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Application.cpp(10,9): error C2352: 'Timer::Start': a call of a non-static member function requires an object
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(8): message : see declaration of 'Timer::Start'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Application.cpp(15,9): error C2352: 'Timer::End': a call of a non-static member function requires an object
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(9): message : see declaration of 'Timer::End'
+  Timer.cpp
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(3,22): error C3083: 'literals': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(3,32): error C2039: 'chrono_literals': is not a member of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(3,47): error C2871: 'chrono_literals': a namespace with this name does not exist
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,7): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,15): error C3083: 'steady_clock': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,29): error C2039: 'time_point': is not a member of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,40): error C3646: 'start': unknown override specifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(12,45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,7): error C3083: 'chrono': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,15): error C3083: 'steady_clock': the symbol to the left of a '::' must be a type
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,29): error C2039: 'time_point': is not a member of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,40): error C3646: 'end': unknown override specifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(13,43): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.h(14,2): warning C4091: 'static ': ignored on left of 'Timer' when no variable is declared
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.cpp(11,2): error C2065: 'start': undeclared identifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.cpp(17,2): error C2065: 'end': undeclared identifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.cpp(18,48): error C2065: 'end': undeclared identifier
+E:\Visual Studios\SortingAlgorithm\SortingAlgorithm\src\Timer.cpp(18,54): error C2065: 'start': undeclared identifier
+  Generating Code...
